@@ -24,13 +24,11 @@ body {
     border-radius: 60px;
 }
 #t2 {
-    height: 300px;
-}
-#tt1 p {
-    margin-left: 20px;
-    margin-bottom: 10px;
+    display: flex;
 }
 #tt1 {
-    display: inline-block;
-    
+    width: 400px;
+}
+#linkfb:hover {
+    font-style: italic;
 }
